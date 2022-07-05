@@ -4,8 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## App overview
 
-![React Multipage site](/reactmultipagesite_AdobeExpress.gif)
-
 ![React Multipage site](/reactmultipagesitee.gif)
 
 
