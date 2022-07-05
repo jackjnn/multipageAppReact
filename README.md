@@ -1,14 +1,10 @@
-
-
-
-
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app =250x250).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app ).
 
 ## App overview
 
-![React Multipage site](/reactmultipagesite_AdobeExpress.gif)
+![React Multipage site](/reactmultipagesite_AdobeExpress.gif =250x250)
 
 ## Available Scripts
 
